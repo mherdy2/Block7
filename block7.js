@@ -1,7 +1,9 @@
+//user about to reveal the vault code if pressing oOK on the pop up message
 alert(`You have received this message because you have been chosen to open an important vault. Here is the secret combination:`);
-let one = 10;
+//first c
+var one = 10;
 console. log(one + 5 - 5);
-let two = 4;
+var two = 4;
 console. log(two * 10);
-let three = 100;
-console. log(three / 2 - 1);
+var three = 100;
+console. log(three / 2 - 11);

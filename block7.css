@@ -1,0 +1,27 @@
+main{
+    text-align: center;
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    width: 70px;
+    border-style: solid;
+    background-color: yellow;
+    margin: 3em;  
+    text-align: center;    
+    }
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+h2{
+    text-align: center;
+    height: 50px;
+    width: auto;
+    border-style: solid;
+    background-color: rgba(16, 216, 53, 0.682);
+    margin: 3em;  
+   
+}
