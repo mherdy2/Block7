@@ -14,11 +14,11 @@ let one = 5 + 5;
 alert(`Verifying...` +` ` + one);
 
 //multiplying 2 numbers to get the second code
-let two = 4 * 10
-alert(`Verifying...` +` ` + two)
+let two = 4 * 10;
+alert(`Verifying...` +` ` + two);
 
 //dividing 2 numbers then minus the the corresponding number for the third code
-let three = 100 / 2 - 11
+let three = 100 / 2 - 11;
 alert(`Verifying...` +` ` + three);
 
 alert(`Successfull press OK to continue`);
