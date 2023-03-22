@@ -1,28 +1,8 @@
-main{
-    text-align: center;
-}
-section{
+img{
+    
+    height:500px;
+    width: 500px;
     display: flex;
-    flex-wrap: wrap;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-h2{
-    text-align: center;
-    height: 50px;
-    width: auto;
-    border-style: solid;
-    background-color: rgba(16, 216, 53, 0.682);
+    flex-wrap: nowrap;
+ }
  
-} 
-h1{
-    background-color: yellow;
-    height: 70px;
-    width: 70px;
-    border-style: solid;
-    text-align: center;    
-}
-div{
-        margin: 2em;
-}
