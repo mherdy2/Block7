@@ -4,26 +4,25 @@ main{
 section{
     display: flex;
     flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
 }
-/*
+
 h2{
     text-align: center;
     height: 50px;
     width: auto;
     border-style: solid;
     background-color: rgba(16, 216, 53, 0.682);
-    margin: 3em;  
-} */
+ 
+} 
 h1{
     background-color: yellow;
-    margin-left: auto;
-    margin-right: auto;
     height: 70px;
     width: 70px;
-    border-style: solid;ßß    
+    border-style: solid;
     text-align: center;    
 }
 div{
-    text-align: center;
-    margin: 3em;
+        margin: 2em;
 }
