@@ -7,7 +7,8 @@
 //7. user finally enters the vault
 
 //messager to unlock vault
-alert(`You have received this message because you have been chosen to open an important vault. Here is the secret combination:`);
+let welcome = `You have received this message because you have been chosen to open an important vault. Here is the secret combination:`
+alert(welcome);
 
 //adding 2 numbers equals to 10 for the first code
 let one = 5 + 5;
