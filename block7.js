@@ -1,6 +1,6 @@
 //user about to reveal the vault code if pressing oOK on the pop up message
 alert(`You have received this message because you have been chosen to open an important vault. Here is the secret combination:`);
-//first c
+//1. creating formula for desired output
 var one = 10;
 console. log(one + 5 - 5);
 var two = 4;
