@@ -7,19 +7,19 @@
 //7. user finally enters the vault
 
 //messager to unlock vault
-let welcome = `You have received this message because you have been chosen to open an important vault. Here is the secret combination:`
+let welcome = `You have received this message because you have been chosen to open an important vault. Here is the secret combination:`;
 alert(welcome);
 
 //adding 2 numbers equals to 10 for the first code
 let one = 5 + 5;
-alert(`Verifying...` +` ` + one);
+alert(`Verifying...` + ` ` + one);
 
 //multiplying 2 numbers to get the second code
 let two = 4 * 10;
-alert(`Verifying...` +` ` + two);
+alert(`Verifying...` + ` ` + two);
 
 //dividing 2 numbers then minus the the corresponding number for the third code
 let three = 100 / 2 - 11;
-alert(`Verifying...` +` ` + three);
+alert(`Verifying...` + ` ` + three);
 
 alert(`Successfull press OK to continue`);
